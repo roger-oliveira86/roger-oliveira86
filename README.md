@@ -8,14 +8,23 @@ Construindo e evoluindo plataformas Kubernetes em produção — de processos Li
 
 ### 🚀 O que estou construindo agora
 
-**[kubernetes-do-zero-ptbr](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr)** — uma trilha completa e gratuita, em português, do zero absoluto até Platform Engineering:
+**[kubernetes-do-zero-ptbr](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr)** — uma trilha completa e gratuita, em português, do zero absoluto até Platform Engineering. Cada módulo tem artigo, README e exercícios práticos.
 
-`Linux` → `Processos` → `Redes` → `Containers` → `Docker/containerd` → `Kubernetes` → `Observabilidade` → `SRE` → `Platform Engineering`
+Não é um post avulso — é uma trilha estruturada, pensada para quem quer sair do zero e chegar em Platform Engineering com uma base sólida, sem pular direto para o Kubernetes sem entender o que sustenta ele.
 
-Cada módulo tem artigo, README e exercícios práticos. Não é um post avulso — é uma trilha estruturada, pensada para quem quer sair do zero e chegar em Platform Engineering com uma base sólida, sem pular direto para o Kubernetes sem entender o que sustenta ele.
+| # | Módulo | Status |
+|---|---|---|
+| 00 | [Primeiros passos](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/00-primeiros-passos) | ✅ publicado |
+| 00 | [Linux — distros e terminal](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/00-linux-for-platform-engineering/01-distros-e-terminal) | ✅ publicado |
+| 00 | [Linux — processos](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/00-linux-for-platform-engineering/02-processos) | ✅ publicado |
+| 00 | Linux — redes | 🔨 em andamento |
+| 01 | [Fundamentos e workloads](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/01-fundamentos-e-workloads) | ⬜ planejado |
+| 02 | [Arquitetura do cluster](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/02-arquitetura-do-cluster) | ⬜ planejado |
+| 03 | [Serviços e networking](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/03-servicos-e-networking) | ⬜ planejado |
+| 04 | [Storage](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/04-storage) | ⬜ planejado |
+| 05 | [Troubleshooting](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/05-troubleshooting) | ⬜ planejado |
 
-**📍 Agora publicando:** módulo de **Processos Linux** — o que roda por baixo do seu terminal
-**⏭️ Próximo:** Redes no Linux, antes de falar de networking em cluster
+📖 Também escrevo [ensaios sobre a prática de Platform Engineering](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/blob/main/ENSAIOS.md) — o "porquê" por trás da trilha.
 
 ---
 
@@ -43,13 +52,6 @@ Artigos em **português** no Medium · versões em **inglês** no DEV.to
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-
----
-
-### 📊 GitHub
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=roger-oliveira86&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger-oliveira86&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
 
 ---
 
