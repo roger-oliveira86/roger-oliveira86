@@ -20,7 +20,7 @@ Cada módulo tem artigo, README e exercícios práticos. Não é um post avulso 
 
 - 📖 **Medium** (PT-BR): [@rogeroliveira86](https://medium.com/@rogeroliveira86)
 - 🌍 **DEV.to** (EN): [@rogeroliveira86](https://dev.to/rogeroliveira86)
-- 💼 **LinkedIn**: conecte comigo para acompanhar os próximos posts da trilha
+- 💼 **LinkedIn**(PT-BR): [https://www.linkedin.com/in/oliveiraroger/?locale=pt]
 
 ---
 
