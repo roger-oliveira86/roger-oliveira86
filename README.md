@@ -38,6 +38,17 @@ Artigos em **português** no Medium · versões em **inglês** no DEV.to
 
 ---
 
+### 📊 GitHub em números
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roger-oliveira86&theme=tokyonight)
+
+<p float="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roger-oliveira86&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roger-oliveira86&theme=tokyonight" width="49%" />
+</p>
+
+---
+
 ### 🛠️ Foco técnico
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
