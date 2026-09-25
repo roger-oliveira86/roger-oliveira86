@@ -1,44 +1,44 @@
-# Olá, eu sou o Roger 👋
+# Hi, I'm Roger 👋
 
 **Platform Engineering · SRE · Kubernetes**
 
-Construindo e evoluindo plataformas Kubernetes em produção — de processos Linux a arquitetura de plataforma. Atualmente compartilhando essa jornada em uma trilha pública de aprendizado.
+Building and running Kubernetes platforms in production — from Linux processes to platform architecture. Currently sharing that journey in a public, hands-on learning track.
 
 ---
 
-### 🚀 O que estou construindo agora
+### 🚀 What I'm building right now
 
-**[kubernetes-do-zero-ptbr](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr)** — uma trilha completa e gratuita, em português, do zero absoluto até Platform Engineering. Cada módulo tem artigo, README e exercícios práticos.
+**[kubernetes-do-zero-ptbr](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr)** — a complete, free track from absolute zero to Platform Engineering. Every module has an article, a README and hands-on exercises.
 
-Não é um post avulso — é uma trilha estruturada, pensada para quem quer sair do zero e chegar em Platform Engineering com uma base sólida, sem pular direto para o Kubernetes sem entender o que sustenta ele.
+It's not a one-off post — it's a structured track, built for anyone who wants to start from zero and reach Platform Engineering on a solid foundation, without jumping straight into Kubernetes without understanding what holds it up.
 
-| # | Módulo | Status |
+| # | Module | Status |
 |---|---|---|
-| 00 | [Primeiros passos](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/00-primeiros-passos) | ✅ publicado |
-| 00 | [Linux — distros e terminal](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/00-linux-for-platform-engineering/01-distros-e-terminal) | ✅ publicado |
-| 00 | [Linux — processos](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/00-linux-for-platform-engineering/02-processos) | ✅ publicado |
-| 00 | Linux — redes | 🔨 em andamento |
-| 01 | [Fundamentos e workloads](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/01-fundamentos-e-workloads) | ⬜ planejado |
-| 02 | [Arquitetura do cluster](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/02-arquitetura-do-cluster) | ⬜ planejado |
-| 03 | [Serviços e networking](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/03-servicos-e-networking) | ⬜ planejado |
-| 04 | [Storage](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/04-storage) | ⬜ planejado |
-| 05 | [Troubleshooting](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/05-troubleshooting) | ⬜ planejado |
+| 00 | [First steps](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/00-first-steps) | ✅ published |
+| 00 | [Linux — distros and terminal](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/00-linux-for-platform-engineering/01-distros-and-terminal) | ✅ published |
+| 00 | [Linux — processes](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/00-linux-for-platform-engineering/02-processes) | ✅ published |
+| 00 | [Linux — users and permissions](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/00-linux-for-platform-engineering/03-users-and-permissions) | ✅ published |
+| 00 | [Linux — networking and troubleshooting](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/00-linux-for-platform-engineering/04-networking-and-troubleshooting) | ✅ published |
+| 00 | [Linux — filesystems and inodes](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/00-linux-for-platform-engineering/05-filesystems-and-inodes) | ✅ published |
+| 01 | [Fundamentals and workloads](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/01-fundamentals-and-workloads) | ⬜ planned |
+| 02 | [Cluster architecture](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/02-cluster-architecture) | ⬜ planned |
+| 03 | [Services and networking](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/03-services-and-networking) | ⬜ planned |
+| 04 | [Storage](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/04-storage) | ⬜ planned |
+| 05 | [Troubleshooting](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/05-troubleshooting) | ⬜ planned |
 
-📖 Também escrevo [ensaios sobre a prática de Platform Engineering](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/blob/main/ENSAIOS.md) — o "porquê" por trás da trilha.
+📖 I also write [essays on the practice of Platform Engineering](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/blob/main/ENSAIOS.md) — the "why" behind the track.
 
 ---
 
-### ✍️ Onde eu escrevo
+### ✍️ Where I write
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rogeroliveira86)
 [![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rogeroliveira86)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliveiraroger/)
 
-Artigos em **português** no Medium · versões em **inglês** no DEV.to
-
 ---
 
-### 📊 GitHub em números
+### 📊 GitHub stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roger-oliveira86&theme=tokyonight)
 
@@ -49,7 +49,7 @@ Artigos em **português** no Medium · versões em **inglês** no DEV.to
 
 ---
 
-### 🛠️ Foco técnico
+### 🛠️ Tech focus
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -66,4 +66,4 @@ Artigos em **português** no Medium · versões em **inglês** no DEV.to
 
 ---
 
-*Se você está começando em Platform Engineering, comece pelo Linux — não pelo Kubernetes. A trilha explica o porquê.*
+*If you're starting out in Platform Engineering, start with Linux — not Kubernetes. The track explains why.*
