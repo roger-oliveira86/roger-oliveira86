@@ -20,7 +20,7 @@ It's not a one-off post — it's a structured track, built for anyone who wants 
 | 00 | [Linux — users and permissions](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/00-linux-for-platform-engineering/03-users-and-permissions) | ✅ published |
 | 00 | [Linux — networking and troubleshooting](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/00-linux-for-platform-engineering/04-networking-and-troubleshooting) | ✅ published |
 | 00 | [Linux — filesystems and inodes](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/00-linux-for-platform-engineering/05-filesystems-and-inodes) | ✅ published |
-| 01 | [Fundamentals and workloads](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/01-fundamentals-and-workloads) | ⬜ planned |
+| 01 | [Fundamentals and workloads](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/01-fundamentals-and-workloads) | 🔄 in progress — [Lab 01 published](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/01-fundamentals-and-workloads/lab-01-deployment-and-rollout) |
 | 02 | [Cluster architecture](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/02-cluster-architecture) | ⬜ planned |
 | 03 | [Services and networking](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/03-services-and-networking) | ⬜ planned |
 | 04 | [Storage](https://github.com/roger-oliveira86/kubernetes-do-zero-ptbr/tree/main/04-storage) | ⬜ planned |
@@ -41,11 +41,6 @@ It's not a one-off post — it's a structured track, built for anyone who wants 
 ### 📊 GitHub stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roger-oliveira86&theme=tokyonight)
-
-<p float="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roger-oliveira86&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roger-oliveira86&theme=tokyonight" width="49%" />
-</p>
 
 ---
 
