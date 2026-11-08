@@ -2,37 +2,41 @@
 
 **Platform Engineering · Site Reliability Engineering · Kubernetes**
 
-I work with platform reliability, automation, Kubernetes and observability. My public projects focus on understanding systems, measuring their behavior, and making changes that can be safely reversed.
+I work on platform reliability, automation, Kubernetes, and observability. My engineering approach emphasizes measurable system behavior, repeatable practices, and changes that can be validated and safely reversed.
 
-These repositories are **independent educational labs**, not examples of confidential production infrastructure. The documentation distinguishes implemented work from planned capabilities.
+This GitHub profile highlights independent technical projects and writing. Labs are educational and do not represent employer systems or production environments.
 
-## Featured engineering projects
+## Featured projects
 
 ### [Kubernetes From Scratch](https://github.com/roger-oliveira86/kubernetes-do-zero)
 
-Hands-on Linux and Kubernetes foundations: investigation, troubleshooting, repeatable deployments and recovery.
+A practical learning track covering Linux, Kubernetes administration, and troubleshooting, built around documented and reproducible exercises.
 
-- **Published:** Linux fundamentals chapters, first-commands lab and a Kubernetes Deployment rollout/rollback lab.
-- **Quality:** GitHub Actions validates Kubernetes manifests on applicable pull requests.
-- **In progress:** workloads, cluster architecture, networking, storage and troubleshooting modules.
+- **Available:** Linux fundamentals, first Kubernetes commands, and a Deployment rollout/rollback lab.
+- **Validation:** Kubernetes manifests checked through GitHub Actions on pull requests.
+- **In progress:** Workloads, cluster architecture, networking, storage, and troubleshooting.
 
-[Explore the track](https://github.com/roger-oliveira86/kubernetes-do-zero) · [Roadmap](https://github.com/roger-oliveira86/kubernetes-do-zero/blob/main/ROADMAP.md) · [Rollout lab](https://github.com/roger-oliveira86/kubernetes-do-zero/tree/main/01-fundamentals-and-workloads/lab-01-deployment-and-rollout)
+[Repository](https://github.com/roger-oliveira86/kubernetes-do-zero) · [Roadmap](https://github.com/roger-oliveira86/kubernetes-do-zero/blob/main/ROADMAP.md) · [Rollout lab](https://github.com/roger-oliveira86/kubernetes-do-zero/tree/main/01-fundamentals-and-workloads/lab-01-deployment-and-rollout)
 
 ### [SRE Reliability Lab](https://github.com/roger-oliveira86/sre-reliability-lab)
 
-An original, small Platform Engineering and SRE lab: an instrumented Python HTTP service, a non-root container, Kubernetes manifests, automated tests, and operational runbooks.
+An independent reliability lab with an instrumented Python HTTP service, container delivery, Kubernetes manifests, and operational documentation.
 
-- **Implemented:** `/healthz`, `/metrics`, structured request logs, optional failure simulation and unit tests.
-- **Documented:** controlled experiments, incident response and postmortem template.
-- **Next steps:** container registry, GitOps and richer observability. **Not yet running** as a complete SRE platform.
+- **Implemented:** Health and metrics endpoints, structured logs, controlled failure simulation, and unit tests.
+- **Verified delivery:** Non-root Alpine container, automated smoke tests, Trivy vulnerability scanning, and manual GHCR image publication.
+- **Planned:** Kubernetes runtime validation, GitOps, tracing, and observability dashboards. These components have not yet been demonstrated as a complete platform.
 
-[Explore the lab](https://github.com/roger-oliveira86/sre-reliability-lab) · [Platform stack roadmap](https://github.com/roger-oliveira86/sre-reliability-lab/blob/main/docs/platform-engineering-stack.md)
+[Repository](https://github.com/roger-oliveira86/sre-reliability-lab) · [Architecture and roadmap](https://github.com/roger-oliveira86/sre-reliability-lab/blob/main/docs/platform-engineering-stack.md)
 
 ## Technical writing
 
-Selected notes on Platform Engineering decisions, observability and safe changes. Examples are sanitized.
+I share technical notes on Platform Engineering, Kubernetes, observability, and reliability, with an emphasis on practical implementation and engineering decisions.
 
-[Technical essays](https://github.com/roger-oliveira86/kubernetes-do-zero/tree/main/articles/essays) · [DEV.to](https://dev.to/rogeroliveira86) · [Medium](https://medium.com/@rogeroliveira86) · [LinkedIn](https://www.linkedin.com/in/oliveiraroger/)
+[Technical essays](https://github.com/roger-oliveira86/kubernetes-do-zero/tree/main/articles/essays) · [DEV.to](https://dev.to/rogeroliveira86)
+
+## Professional profile
+
+[LinkedIn](https://www.linkedin.com/in/oliveiraroger/)
 
 ## Engineering focus
 
