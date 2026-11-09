@@ -8,7 +8,7 @@ This GitHub profile highlights independent technical projects and writing. Labs 
 
 ## Featured projects
 
-### [Kubernetes From Scratch](https://github.com/roger-oliveira86/kubernetes-do-zero)
+### [Kubernetes From Scratch](https://github.com/roger-oliveira86/kubernetes-from-scratch)
 
 A practical learning track covering Linux, Kubernetes administration, and troubleshooting, built around documented and reproducible exercises.
 
@@ -16,7 +16,7 @@ A practical learning track covering Linux, Kubernetes administration, and troubl
 - **Validation:** Kubernetes manifests checked through GitHub Actions on pull requests.
 - **In progress:** Workloads, cluster architecture, networking, storage, and troubleshooting.
 
-[Repository](https://github.com/roger-oliveira86/kubernetes-do-zero) · [Roadmap](https://github.com/roger-oliveira86/kubernetes-do-zero/blob/main/ROADMAP.md) · [Rollout lab](https://github.com/roger-oliveira86/kubernetes-do-zero/tree/main/01-fundamentals-and-workloads/lab-01-deployment-and-rollout)
+[Repository](https://github.com/roger-oliveira86/kubernetes-from-scratch) · [Roadmap](https://github.com/roger-oliveira86/kubernetes-from-scratch/blob/main/ROADMAP.md) · [Rollout lab](https://github.com/roger-oliveira86/kubernetes-from-scratch/tree/main/01-fundamentals-and-workloads/lab-01-deployment-and-rollout)
 
 ### [SRE Reliability Lab](https://github.com/roger-oliveira86/sre-reliability-lab)
 
