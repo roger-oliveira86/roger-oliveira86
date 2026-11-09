@@ -1,4 +1,4 @@
-x# Hi, I'm Roger 👋
+# Hi, I'm Roger 👋
 
 **Platform Engineering · Site Reliability Engineering · Kubernetes**
 
