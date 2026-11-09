@@ -30,9 +30,9 @@ An independent reliability lab with an instrumented Python HTTP service, contain
 
 ## Technical writing
 
-I share technical notes on Platform Engineering, Kubernetes, observability, and reliability, with an emphasis on practical implementation and engineering decisions.
+Selected articles on Platform Engineering, Kubernetes, and reliability.
 
-[Technical essays](https://github.com/roger-oliveira86/kubernetes-do-zero/tree/main/articles/essays) · [DEV.to](https://dev.to/rogeroliveira86)
+[DEV.to](https://dev.to/rogeroliveira86)
 
 ## Professional profile
 
