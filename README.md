@@ -1,45 +1,32 @@
-# Hi, I'm Roger 👋
+# Roger Oliveira
 
 **Platform Engineering · Site Reliability Engineering · Kubernetes**
 
-I work on platform reliability, automation, Kubernetes, and observability. My engineering approach emphasizes measurable system behavior, repeatable practices, and changes that can be validated and safely reversed.
+I build reliable platforms through automation, observability, and changes that can be tested and safely reversed.
 
-This GitHub profile highlights independent technical projects and writing. Labs are educational and do not represent employer systems or production environments.
-
-## Featured projects
+## Selected Engineering Work
 
 ### [Kubernetes From Scratch](https://github.com/roger-oliveira86/kubernetes-from-scratch)
 
-A practical learning track covering Linux, Kubernetes administration, and troubleshooting, built around documented and reproducible exercises.
+A hands-on learning track that starts with Linux and Kubernetes fundamentals.
 
-- **Available:** Linux fundamentals, first Kubernetes commands, and a Deployment rollout/rollback lab.
-- **Validation:** Kubernetes manifests checked through GitHub Actions on pull requests.
-- **In progress:** Workloads, cluster architecture, networking, storage, and troubleshooting.
-
-[Repository](https://github.com/roger-oliveira86/kubernetes-from-scratch) · [Roadmap](https://github.com/roger-oliveira86/kubernetes-from-scratch/blob/main/ROADMAP.md) · [Rollout lab](https://github.com/roger-oliveira86/kubernetes-from-scratch/tree/main/01-fundamentals-and-workloads/lab-01-deployment-and-rollout)
+- [Deployment, Service, rollout and rollback](https://github.com/roger-oliveira86/kubernetes-from-scratch/tree/main/01-fundamentals-and-workloads/lab-01-deployment-and-rollout) — deploy an application, diagnose a stalled rollout, and roll back.
+- [Workload configuration and readiness](https://github.com/roger-oliveira86/kubernetes-from-scratch/tree/main/01-fundamentals-and-workloads/lab-02-workload-configuration) — use a ConfigMap and a fictional Secret, then observe readiness failure and recovery through EndpointSlices.
+- GitHub Actions validates manifests in strict mode against pinned Kubernetes 1.35.0 schemas.
 
 ### [SRE Reliability Lab](https://github.com/roger-oliveira86/sre-reliability-lab)
 
-An independent reliability lab with an instrumented Python HTTP service, container delivery, Kubernetes manifests, and operational documentation.
+An instrumented Python HTTP service with health checks, metrics, structured logs, and automated tests.
 
-- **Implemented:** Health and metrics endpoints, structured logs, controlled failure simulation, and unit tests.
-- **Verified delivery:** Non-root Alpine container, automated smoke tests, Trivy vulnerability scanning, and manual GHCR image publication.
-- **Planned:** Kubernetes runtime validation, GitOps, tracing, and observability dashboards. These components have not yet been demonstrated as a complete platform.
+- Container delivery includes a non-root image, smoke tests, Trivy scanning, and manual publication to GHCR.
+- GitOps, tracing, and dashboards are planned stages of the platform.
 
-[Repository](https://github.com/roger-oliveira86/sre-reliability-lab) · [Architecture and roadmap](https://github.com/roger-oliveira86/sre-reliability-lab/blob/main/docs/platform-engineering-stack.md)
+## Technical Writing
 
-## Technical writing
+[Running Doesn't Mean Ready: A Kubernetes Troubleshooting Lab](https://dev.to/rogeroliveira86/running-doesnt-mean-ready-a-kubernetes-troubleshooting-lab-2dg0)
 
-Selected articles on Platform Engineering, Kubernetes, and reliability.
+[DEV.to](https://dev.to/rogeroliveira86) · [LinkedIn](https://www.linkedin.com/in/oliveiraroger/)
 
-[DEV.to](https://dev.to/rogeroliveira86)
+## Engineering Principles
 
-## Professional profile
-
-[LinkedIn](https://www.linkedin.com/in/oliveiraroger/)
-
-## Engineering focus
-
-Kubernetes · Linux · SRE · Platform Engineering · Observability · Incident Response · Automation
-
-> Understand the system, verify the signals, and make changes you can safely reverse.
+Understand the system. Verify the signals. Make changes you can safely reverse.
